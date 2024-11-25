@@ -4,6 +4,7 @@
 
 <template>
 <div class="container">
+<div class="row">
     <div class="mb-3">
   <label for="name" class="form-label">Название</label>
   <input type="text" class="form-control" id="name">
@@ -22,6 +23,7 @@
 </div>
 <div class="button">
     <button type="button" class="btn btn-success">Добавить</button>
+</div>
 </div>
 </div>
 </template>
